@@ -9,7 +9,7 @@
       <pubDate>Tue, 05 Mar 2026 10:00:00 GMT</pubDate>
       <enclosure 
         url="https://github.com/Zynph/AnodeUpdates/releases/download/v1.2.2/AnodePlusSetup.msi"
-        sparkle:version="1.2.1"
+        sparkle:version="1.2.2"
         length="12345678"
         type="application/octet-stream" />
     </item>
@@ -17,3 +17,4 @@
   </channel>
 
 </rss>
+
