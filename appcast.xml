@@ -10,6 +10,7 @@
       <enclosure 
         url="https://github.com/Zynph/AnodeUpdates/releases/download/v1.2.2/AnodePlusSetup.msi"
         sparkle:version="1.2.2"
+        sparkle:dsaSignature="6l2bnwQKDKfqVf4ge8mwZ3XfD9vUTbtzQeE3TX0sbvD8GITDJ2chdBZkwSlVTRRCssOMdZp7x0lWDzvqzYt0AQ=="
         length="12345678"
         type="application/octet-stream" />
     </item>
@@ -17,4 +18,5 @@
   </channel>
 
 </rss>
+
 
