@@ -5,11 +5,11 @@
     <title>ANODE Updates</title>
 
     <item>
-      <title>Version 1.2.2</title>
-      <pubDate>Tue, 05 Mar 2026 10:00:00 GMT</pubDate>
+      <title>Version 1.2.3</title>
+      <pubDate>Tue, 06 Mar 2026 10:00:00 GMT</pubDate>
       <enclosure 
-        url="https://github.com/Zynph/AnodeUpdates/releases/download/v1.2.2/AnodePlusSetup.msi"
-        sparkle:version="1.2.2"
+        url="https://github.com/Zynph/AnodeUpdates/releases/download/v1.2.3/AnodePlusSetup.msi"
+        sparkle:version="1.2.3"
         sparkle:dsaSignature="6l2bnwQKDKfqVf4ge8mwZ3XfD9vUTbtzQeE3TX0sbvD8GITDJ2chdBZkwSlVTRRCssOMdZp7x0lWDzvqzYt0AQ=="
         length="12345678"
         type="application/octet-stream" />
@@ -18,5 +18,6 @@
   </channel>
 
 </rss>
+
 
 
